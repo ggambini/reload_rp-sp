@@ -10,3 +10,9 @@ This script test the config on local httpd with configtest command. If its ok, h
 ### Usage
 
 Call script without parameters. The remote node and conf_path are specified at the top of script.
+
+|                      |                                          |
+|:---------------------|:-----------------------------------------|
+| **Author:**          | Gilian Gambini (<gamb@gamb.fr>)
+| **Copyright:**       | Gamb
+| **License:**         | AGPL v3, see the COPYING file.
